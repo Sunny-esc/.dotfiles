@@ -17,7 +17,8 @@ Welcome to my dotfiles repository! This collection is centered around my configu
 - **Hyprland**: Highly customized configuration for a tiling Wayland compositor.
 - **Waybar**: Status bar with modules and custom styling.
 - **Rofi**: Application launcher and menu.
-- **Kitty & Foot**: Terminal emulator settings.Add Oh my posh for termial customiztion 
+- **Kitty & Foot**: Terminal emulator settings.Add Oh my posh for termial customiztion [![wiki](https://img.shields.io/badge/docs-wiki-blue.svg)](https://github.com/Sunny-esc/.dotfiles/wiki/oh-my-posh-setup-for-terminal)
+
 - **Dunst**: Notification daemon configuration.
 - **Hyprpaper & Waypaper**: Wallpaper managers for Wayland.
 - **Fastfetch**: For system info at a glance.
@@ -71,3 +72,4 @@ Feel free to open issues or PRs if you have improvements or questions!
 ---
 
 > Inspired by the open-source ricing and dotfiles communities.
+
